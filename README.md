@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=6666&pause=1000&color=247CF6&background=FFFFFF00&vCenter=true&random=false&width=435&lines=lkmsky)](https://git.io/typing-svg)
+
 ## Śledź mnie na mediach społecznościowych:
 [![Instagram](https://img.shields.io/badge/Instagram-lkmsky?style=flat&logo=instagram&logoColor=white&labelColor=%23F56040&color=%23232b2b)](https://www.instagram.com/lkmskv/)
 [![Twitter](https://img.shields.io/badge/Twitter-lkmsky?style=flat&logo=twitter&logoColor=white&labelColor=%231da1f2&color=%23232b2b)](https://twitter.com/pettownik/)
